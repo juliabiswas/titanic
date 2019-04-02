@@ -8,4 +8,4 @@ To run the file, you need to save the data files in your google drive (the code 
 
 ## Usage
 
-Analyzing history through machine learning!
+Analyzing history through machine learning
