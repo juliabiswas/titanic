@@ -1,6 +1,6 @@
 # Titanic
 
-Titanic is a machine learning model that predicts the survival of Titanic passengers based on certain features.
+Titanic is a machine learning model that predicts the survival of Titanic passengers based on certain features. Dataset is from Kaggle.
 
 ## Installation
 
